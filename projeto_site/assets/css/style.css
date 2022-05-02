@@ -1,0 +1,50 @@
+body{
+    margin: auto 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: lightcoral;
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+    font-size: x-large;
+}
+
+section{
+    display: flex;
+
+}
+
+nav{
+    width: 20%;
+    padding: 30px;
+    background-color: lightyellow;
+}
+
+ul li{
+    list-style: none;
+}
+
+a, a:link, a:visited{
+    text-decoration: none;
+}
+
+article{
+    width: 70%;
+    padding: 30px;
+    background-color: rgb(182, 219, 231);
+}
+
+aside{
+    width: 10%;
+    text-align: center;
+    margin: auto 0;
+}
+
+footer{
+    background-color: lightcoral;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
